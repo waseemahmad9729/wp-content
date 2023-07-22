@@ -4,6 +4,7 @@ Plugin Name:  Projects CPT
 Plugin URI:  
 Description: 
 Version:     1.0.0
+Author:     Waseem Ahmad
 */
 
 
