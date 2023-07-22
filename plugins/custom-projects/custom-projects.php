@@ -59,7 +59,6 @@ function custom_register_projects_post_type() {
   }
   add_action('init', 'custom_register_projects_post_type');
   
-  // Register custom taxonomy "Project Type" for the "Projects" post type
   function custom_register_project_type_taxonomy() {
       $labels = array(
           'name'              => _x('Project Types', 'taxonomy general name', 'textdomain'),
